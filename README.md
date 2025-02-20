@@ -38,7 +38,7 @@ Example calculations:
 
 Note: Script includes input validation and prevents division by zero.
 
-# test2.bat Batch Script Output 
+## test2.bat Batch Script Output 
 
 For each value of a:
 
