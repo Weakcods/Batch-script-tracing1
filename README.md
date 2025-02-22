@@ -1,7 +1,4 @@
 
-#  Trace the execution of a batch script based on the assigned values of a variable and provide a detailed explanation of the resulting output.
-
-
 ## test1.bat Analysis
 
 The script calculates x = (100 % Y)+(Y / 3) where:
